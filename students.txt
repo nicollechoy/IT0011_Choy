@@ -1,0 +1,12 @@
+Last Name: choy
+First Name: nicolle
+Age: 19
+Contact Number: 09123456789
+Course: BSIT
+
+Last Name: Choy
+First Name: Nicolle
+Age: 19
+Contact Number: 09123456789
+Course: BSIT-BA
+
